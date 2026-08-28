@@ -44,7 +44,7 @@ third_gen_text_y = 74
 def write_beginning(f):
     f.write("<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>\n")
     f.write('<DLabel source="pc" version="3.2.5">\n')
-    f.write(' <paper excelhash="" zoomfactor="3.725290298461914" bgcolor="" excelurl="" h="{0}" databasefile="" moreselect="true" printerdpi="203" background="" shapeindex="1" horoffset="0" veroffset="0" rotate="90" datasource="" colspacing="2" excelid="" colcount="1" bgurl="" w="{1}" excelpath="">\n'.format(paper_height, paper_width))
+    f.write(' <paper excelhash="" zoomfactor="3.725290298461914" bgcolor="" excelurl="" h="{0}" databasefile="" moreselect="true" printerdpi="203" background="" shapeindex="1" horoffset="0" veroffset="0" rotate="0" datasource="" colspacing="2" excelid="" colcount="1" bgurl="" w="{1}" excelpath="">\n'.format(paper_height, paper_width))
     f.write('  <labelobjects>\n')
 
 # Set the x- and y-positions of the QR codes for each module ID
