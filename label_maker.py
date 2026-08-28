@@ -12,11 +12,6 @@ paper_width = 50
 # Set characteristics of QR codes common to all module IDs (mm)
 qr_height = 18
 qr_width = 18
-# even_qr_x = 4
-# odd_qr_x = 27
-# first_gen_qr_y = 74
-# second_gen_qr_y = 49
-# third_gen_qr_y = 24
 even_qr_x = 4
 odd_qr_x = 28
 first_gen_qr_y = 4
@@ -25,15 +20,9 @@ third_gen_qr_y = 56
 
 # Set characteristics of text labels common to all module IDs (mm)
 text_height = 3
-# text_width = 30
 text_width = 25
 text_size = 7
 text_alignment = 1
-# even_text_x = 22
-# odd_text_x = 45
-# first_gen_text_y = 80
-# second_gen_text_y = 55
-# third_gen_text_y = 30
 even_text_x = 0.5
 odd_text_x = 24.5
 first_gen_text_y = 22
