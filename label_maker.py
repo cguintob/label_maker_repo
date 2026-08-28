@@ -35,9 +35,9 @@ text_alignment = 1
 # third_gen_text_y = 30
 even_text_x = 0
 odd_text_x = 25
-first_gen_qr_y = 21
-second_gen_qr_y = 48
-third_gen_qr_y = 75
+first_gen_text_y = 21
+second_gen_text_y = 48
+third_gen_text_y = 75
 
 # Write the beginning of the Clabel file (common to all module IDs)
 def write_beginning(f):
