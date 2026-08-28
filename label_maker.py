@@ -25,7 +25,8 @@ third_gen_qr_y = 57
 
 # Set characteristics of text labels common to all module IDs (mm)
 text_height = 3
-text_width = 30
+# text_width = 30
+text_width = 25
 text_size = 7
 text_alignment = 1
 # even_text_x = 22
