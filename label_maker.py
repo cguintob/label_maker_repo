@@ -19,9 +19,9 @@ qr_width = 18
 # third_gen_qr_y = 24
 even_qr_x = 4
 odd_qr_x = 28
-first_gen_qr_y = 3
+first_gen_qr_y = 4
 second_gen_qr_y = 30
-third_gen_qr_y = 57
+third_gen_qr_y = 56
 
 # Set characteristics of text labels common to all module IDs (mm)
 text_height = 3
@@ -36,9 +36,9 @@ text_alignment = 1
 # third_gen_text_y = 30
 even_text_x = 0.5
 odd_text_x = 24.5
-first_gen_text_y = 21
+first_gen_text_y = 22
 second_gen_text_y = 48
-third_gen_text_y = 75
+third_gen_text_y = 74
 
 # Write the beginning of the Clabel file (common to all module IDs)
 def write_beginning(f):
