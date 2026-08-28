@@ -6,8 +6,8 @@ read_path = "/home/cmuhgc/HGC_DB_postgres/shipping/"
 write_path = "/home/cmuhgc/qr_labels/"
 
 # Set characteristics of paper (mm)
-paper_height = 80
-paper_width = 50
+paper_height = 50
+paper_width = 80
 
 # Set characteristics of QR codes common to all module IDs (mm)
 qr_height = 18
